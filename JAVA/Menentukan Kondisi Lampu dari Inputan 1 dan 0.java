@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class Latihan2Desicion {
     public static void main(String[] args) {
