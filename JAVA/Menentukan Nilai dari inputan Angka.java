@@ -1,6 +1,4 @@
-
 import java.util.Scanner;
-
 public class Quiz03 {
     public static void main(String[] args) {
       Scanner a = new Scanner(System.in);
