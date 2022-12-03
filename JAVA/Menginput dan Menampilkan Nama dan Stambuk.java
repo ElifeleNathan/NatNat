@@ -3,7 +3,6 @@ public class Pelajaran {
     public static void main(String[] args) {
        int stambuk;
        String nama;
-       
        Scanner a = new Scanner(System.in);
        System.out.print("Masukkan Stambuk Anda = ");
        System.out.println("Masukkan Nama Anda = ");
