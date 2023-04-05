@@ -15,5 +15,4 @@ public class Tugas7 {
         System.out.println("Volume tabung = "+v);
         System.out.println("Luas selimut tabung = "+l);
     }
-    
 }
