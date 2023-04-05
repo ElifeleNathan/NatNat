@@ -25,5 +25,5 @@ public class Tugas11 {
             System.out.println("Bilangan Ganjil");
         }
     }
-    
+   
 }
