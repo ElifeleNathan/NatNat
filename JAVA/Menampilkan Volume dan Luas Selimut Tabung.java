@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Tugas7 {
     public static void main(String[] args) {
-      double v,t,p,l,j;
+      double v,t,l,j;
       double phi = 3.14;
       Scanner sc = new Scanner(System.in);
         System.out.print("Masukkan panjang jari-jari tabung = ");
